@@ -36,6 +36,7 @@ SpotifyPrototype snapshot
 The design automatically adapts to:
 Desktop: Full-width navigation and playlist views.
 Tablet: Navigation adapts to a side menu for easier browsing.
+Mobile: Compact interface with dropdown menus and scrollable content for easy access.
 
 🤝 Contributing
 💡 Suggestions or improvements are welcome! To contribute:
