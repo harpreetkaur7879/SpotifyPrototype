@@ -30,7 +30,7 @@ open index.html   # macOS
 (Alternatively, you can use Live Server in VS Code to view the project live.)
 
 🖼️ UI Preview
-SpotifyPrototype snapshot
+![My Image](https://github.com/harpreetkaur7879/SpotifyPrototype/blob/main/snapshot.png)
 
 📐 Responsive Layout
 The design automatically adapts to:
